@@ -1,4 +1,4 @@
 # M2-LabBook
-## CSS LabBook
+### CSS LabBook
 ## HTML LabBook
 ## Angular LabBook
